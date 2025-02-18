@@ -4,7 +4,7 @@ public class VariablesAndCaseSensitivity {
         double itemPrice = 29.99;
         String studentName = "Alice";
         int counter = 10;
-        int Counter = 29;
+        int Counter = 20;
 
         System.out.println("Student Age: " + studentAge);
         System.out.println("Item Price: $" + itemPrice);
